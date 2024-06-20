@@ -9,7 +9,7 @@ Serves 4
 
 2 button mushroom (finely chopped)
 
-100 ml wine vinegar ( white or red)
+100 ml wine vinegar (white or red)
 
 300 ml home style demi glace (or 500 ml brown stock reduce to 300 ml)
 
