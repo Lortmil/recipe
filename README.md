@@ -19,3 +19,5 @@ last line changed locally
 
 **This is a bold statement** __This is bold as well__
 *This is an italicized statement* _Italics are fun_
+
+![This a nice picture of tasty food with Hachee sauce!](/recipe.jpg "Sauce Hachee")
