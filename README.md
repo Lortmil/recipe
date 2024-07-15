@@ -16,3 +16,6 @@ last line changed locally
 - List item two
 - List item three
 - List item four
+
+**This is a bold statement** __This is bold as well__
+*This is an italicized statement* _Italics are fun_
